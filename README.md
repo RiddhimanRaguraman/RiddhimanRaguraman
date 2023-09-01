@@ -12,7 +12,6 @@
   
   📊 Join me on my coding adventures as I continue to learn, grow, and build cool things. Let's create some digital magic together! ✨</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhimanraguraman" alt="riddhimanraguraman" /></a> </p>
 
 - 🔭 I’m currently working on [Clouds rescue its a 2d education game made as a part of my internship](https://github.com/RiddhimanRaguraman/CloudsRescue)
 
