@@ -13,7 +13,7 @@
   📊 Join me on my coding adventures as I continue to learn, grow, and build cool things. Let's create some digital magic together! ✨</h3>
 
 
-- 🔭 I’m currently working on [Clouds rescue its a 2d education game made as a part of my internship](https://github.com/RiddhimanRaguraman/CloudsRescue)
+- 🔭 I’m currently working on [Clouds rescue ](https://github.com/RiddhimanRaguraman/CloudsRescue) its a 2d education game made as a part of my internship
 
 - 🌱 I’m currently learning **XR development**
 
