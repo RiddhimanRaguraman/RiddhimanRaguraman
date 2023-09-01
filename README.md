@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riddhiman Raguraman</h1>
+<h1 align="center">Vannakam 👋, I'm Riddhiman Raguraman</h1>
 <h3 align="left">👋 Hi there! I'm Riddhiman Raguraman, a final-year B.Tech Computer Science student with a passion for technology and innovation. 🎓 
 
 
