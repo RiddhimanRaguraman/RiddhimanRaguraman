@@ -2,7 +2,7 @@
 <h3 align="left">
   👋 Hi there! I'm Riddhiman Raguraman, a final-year B.Tech Computer Science student with a passion for technology and innovation. 
 
-  🕹️ I have a deep interest in game development and programming, constantly exploring new ways to bring virtual worlds to life, been working on both 3d and 2d games in Unity for 2 years now, and still trying to learn new technologies. 
+🕹️ I have a deep interest in game development and programming, constantly exploring new ways to bring virtual worlds to life, been working on both 3d and 2d games in Unity for 2 years now, and still trying to learn new technologies. 
   
   🧠 I've dived into the realms of Machine Learning, Artificial Intelligence, Natural Language Processing, and Image Processing, gaining insights into the exciting world of AI. 
   
