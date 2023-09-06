@@ -13,11 +13,11 @@
   📊 Join me on my coding adventures as I continue to learn, grow, and build cool things. Let's create some digital magic together! ✨</h3>
 
 
-- 🔭 I’m currently working on [Clouds rescue ](https://github.com/RiddhimanRaguraman/CloudsRescue) it is a 2d education game made as a part of my internship
+- 🔭 I’m currently working on [Clouds rescue](https://github.com/RiddhimanRaguraman/CloudsRescue) it is a 2d education game made as a part of my internship
 
 - 🌱 I’m currently learning **XR development**
 
-- 👯 I’m looking to collaborate on **Derelict its a 3d rpg survival game**
+- 👯 I’m looking to collaborate on **[Derelict](https://github.com/RiddhimanRaguraman/Derelict) its a 3d rpg survival game**
 
 - 📫 How to reach me **raguramanriddhiman@gmail.com**
 
