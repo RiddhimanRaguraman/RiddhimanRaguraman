@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **XR development**
 
-- 👯 I’m looking to collaborate on **[Derelict](https://github.com/RiddhimanRaguraman/Derelict) its a 3d rpg survival game**
+- 👯 I’m looking to collaborate on [Derelict](https://github.com/RiddhimanRaguraman/Derelict) its a 3d rpg survival game
 
 - 📫 How to reach me **raguramanriddhiman@gmail.com**
 
