@@ -1,5 +1,5 @@
 <h1 align="center">Vannakam 👋, I'm Riddhiman Raguraman</h1>
-<h3 align="left">
+<h2 align="left">
   👋 Hi there! I'm Riddhiman Raguraman, a final-year B.Tech Computer Science student with a passion for technology and innovation. 
 
   🕹️ I have a deep interest in game development and programming, constantly exploring new ways to bring virtual worlds to life, been working on both 3d and 2d games in Unity for 2 years now, and still trying to learn new technologies. 
@@ -10,7 +10,7 @@
   
   🕰️ I'm also a retro software enthusiast, and I've even crafted a C++ executable software that connects to an Oracle 11g database. 
   
-  📊 Join me on my coding adventures as I continue to learn, grow, and build cool things. Let's create some digital magic together! ✨</h3>
+  📊 Join me on my coding adventures as I continue to learn, grow, and build cool things. Let's create some digital magic together! ✨</h2>
 
 
 - 🔭 I’m currently completed [Clouds rescue](https://github.com/RiddhimanRaguraman/CloudsRescue) it is a 2d education game made as a part of my internship
