@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently completed [Clouds rescue](https://github.com/RiddhimanRaguraman/CloudsRescue) it is a 2d education game made as a part of my internship
 
-- 🌱 I’m currently learning **XR development**
+- 🌱 I’m currently learning **XR development** and also working on a 2d platformer tentatively name [Project Greif](https://github.com/RiddhimanRaguraman/Project_Grief)
 
 - 👯 Check out [Derelict](https://github.com/RiddhimanRaguraman/Derelict) it is a 3d rpg survival game
 
