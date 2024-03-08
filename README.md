@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently completed [Clouds rescue](https://github.com/RiddhimanRaguraman/CloudsRescue) it is a 2d education game made as a part of my internship
 
-- 🌱 I’m currently learning **XR development** and also working on a 2d platformer tentatively name [RickysCastle](https://github.com/RiddhimanRaguraman/RickysCastle)
+- 🌱 I’m currently learning **XR development** and also working on a 3d game tentatively name [RickysCastle](https://github.com/RiddhimanRaguraman/RickysCastle)
 
 - 👯 Check out my [Blender Projects](https://github.com/RiddhimanRaguraman/Blender-Projects-)
 
