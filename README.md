@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **XR development** and also working on a 2d platformer tentatively name [RickysCastle](https://github.com/RiddhimanRaguraman/RickysCastle)
 
-- 👯 Check out [Derelict](https://github.com/RiddhimanRaguraman/Derelict) it is a 3d rpg survival game my [Blender Projects](https://github.com/RiddhimanRaguraman/Blender-Projects-)
+- 👯 Check out my [Blender Projects](https://github.com/RiddhimanRaguraman/Blender-Projects-)
 
 - 📫 How to reach me **raguramanriddhiman@gmail.com**
 
