@@ -1,8 +1,8 @@
 <h1 align="center">Vannakam 👋, I'm Riddhiman Raguraman</h1>
 
-👋 Hi there! I'm Riddhiman Raguraman, a final-year B.Tech Computer Science student with a passion for technology and innovation.
+👋 Hi there! I'm Riddhiman Raguraman, a final-year M.S Game Programming student in Depaul University with a passion for technology and innovation.
 
-  🕹️ I have a deep interest in game development and programming, constantly exploring new ways to bring virtual worlds to life, been working on both 3D and 2D games in Unity for 2 years now, and still trying to learn new technologies. 
+  🕹️ I have a deep interest in game development and graphics programming, constantly exploring new ways to bring virtual worlds to life, been working on both 3D and 2D games in Unity for 2 years now, and still trying to learn new technologies. 
   
   🧠 I've dived into the realms of Machine Learning, Artificial Intelligence, Natural Language Processing, and Image Processing, gaining insights into the exciting world of AI. 
   
